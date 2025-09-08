@@ -97,3 +97,46 @@ input:focus, textarea:focus {
 footer{
     margin-top: 30px;
 }
+
+
+
+
+
+
+@media (max-width:1920px){
+
+    .contact-form{
+        width: 350px;
+        max-width: 1320px;
+    }
+
+    textarea{
+        width: 100%;
+    }
+
+    .form-container{
+        padding: 15px;
+    }
+
+}
+
+
+
+
+
+@media (max-width:480px){
+
+    .contact-form{
+        width: 100%;
+        max-width: 320px;
+    }
+
+    textarea{
+        width: 100%;
+    }
+
+    .form-container{
+        padding: 15px;
+    }
+
+}

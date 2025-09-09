@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+.required{
+    color: #ff6308;
+    font-size: 20px;
+}
+
 body {
     height: 110vh;
     display: flex;
